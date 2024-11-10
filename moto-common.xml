@@ -8,6 +8,8 @@
         fetch="https://github.com/ThankYouMario/" />
     <remote name="moto-common-vendor"
         fetch="https://git.libremobileos.com/electimon/" />
+    <remote name="moto-common-yzu"
+        fetch="https://git.yzu.moe/moto-common/" />
     <!-- CLO -->
     <remote name="clo-la"
             fetch="https://git.codelinaro.org/clo/la"
