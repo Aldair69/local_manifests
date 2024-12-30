@@ -6,4 +6,19 @@
   <remove-project name="platform/hardware/qcom/bootctrl" />
   <remove-project name="LineageOS/android_hardware_samsung_nfc" />
   <remove-project name="LineageOS/android_hardware_st_nfc" />
+  <remove-project name="LineageOS/android_hardware_qcom-caf_common" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
+  <remove-project name="LineageOS/android_hardware_qcom_thermal" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_core-utils-vendor" />
+  <remove-project name="LineageOS/android_external_ant-wireless_hidl" />
+  <remove-project name="LineageOS/android_vendor_codeaurora_telephony" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_healthd-ext" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_thermal-engine" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_vibrator" />
+
 </manifest>
