@@ -51,4 +51,6 @@
         remote="moto-common" revision="master" />
     <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony"
         remote="moto-common" revision="master" />
+    <project path="vendor/qcom/opensource/commonsys/fm" name="platform_vendor_qcom_opensource_fm-commonsys"
+        remote="moto-common" revision="14" />
 </manifest>
