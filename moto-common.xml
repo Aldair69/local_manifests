@@ -21,12 +21,7 @@
     <!-- misc trees -->
     <include name="local_manifests/fragments/misc.xml"/>
     <!-- device trees -->
-    <include name="local_manifests/fragments/sm4250.xml"/>
-    <include name="local_manifests/fragments/sm4350.xml"/>
     <include name="local_manifests/fragments/sm6125.xml"/>
-    <include name="local_manifests/fragments/sm6150.xml"/>
-    <include name="local_manifests/fragments/sm6450.xml"/>
-    <include name="local_manifests/fragments/sm8250.xml"/>
     <!-- soc specific trees -->
     <include name="local_manifests/fragments/soc/qcom.xml"/>
 </manifest>
