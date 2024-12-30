@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+     <remote name="aldair69"
+        fetch="https://github.com/Aldair69/" />
     <project path="kernel/motorola/msm-4.14" name="android_kernel_motorola_msm-4.14"
-        remote="moto-common" revision="14" />
+        remote="aldair69" revision="15" />
     <project path="device/motorola/amogus-kernel" name="android_device_motorola_amogus-kernel"
         remote="moto-common" revision="master" />
     <project path="device/motorola/amogus" name="android_device_motorola_amogus"
