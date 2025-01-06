@@ -10,7 +10,7 @@
     <project path="vendor/qcom/opensource/audio/sm8150" name="platform_vendor_qcom_opensource_audio_sm8150"
         remote="moto-common" revision="master" />
     <project path="vendor/qcom/opensource/display/sm8150" name="platform_vendor_qcom_opensource_display_sm8150"
-        remote="moto-common" revision="master" />
+        remote="aldair69" revision="master" />
     <project path="vendor/qcom/opensource/display-commonsys-intf" name="platform_vendor_qcom_opensource_display-commonsys-intf"
         remote="moto-common" revision="master" />
     <project path="vendor/qcom/opensource/media/sm8150" name="platform_vendor_qcom_opensource_media_sm8150"
