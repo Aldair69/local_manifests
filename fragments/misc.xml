@@ -2,10 +2,6 @@
 <manifest>
     <project path="hardware/samsung/nfc" name="platform_hardware_samsung_nfc"
         remote="moto-common" revision="master" />
-    <project path="hardware/nxp/nfc" name="platform_hardware_nxp_nfc"
-        remote="moto-common" revision="15" />
-    <project path="hardware/st/nfc" name="platform_hardware_st_nfc"
-        remote="moto-common" revision="master" />
     <project path="device/sony/sepolicy" name="android_device_sony_sepolicy"
         remote="moto-common" revision="master" />
     <project path="vendor/goodix" name="platform_vendor_goodix"
