@@ -9,7 +9,6 @@
   <remove-project name="LineageOS/android_hardware_qcom_thermal" />
   <remove-project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal" />
   <remove-project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar" />
-  <remove-project name="LineageOS/android_vendor_qcom_opensource_core-utils-vendor" />
   <remove-project name="LineageOS/android_external_ant-wireless_hidl" />
   <remove-project name="LineageOS/android_vendor_codeaurora_telephony" />
   <remove-project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" />
