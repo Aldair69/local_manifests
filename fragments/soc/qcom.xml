@@ -28,6 +28,8 @@
         remote="aospa" revision="uvite" />
     <project path="device/qcom/sepolicy_vndr" name="android_device_qcom_sepolicy_vndr"
         remote="aospa" revision="uvite" />
+    <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy"
+        remote="aldair69" revision="15" />
     <project path="external/fastrpc" name="android_external_fastrpc"
         remote="aospa" revision="uvite" />
      <project path="vendor/qcom/opensource/thermal-engine" name="platform_vendor_qcom_opensource_thermal-engine"
