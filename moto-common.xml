@@ -17,7 +17,7 @@
             sync-tags="false" />
     
     <!-- GAPPS -->
-    <remote name="MindTheGapps" fetch="https://github.como/Aldair69/" />
+    <remote name="MindTheGapps" fetch="https://github.com/Aldair69/" />
     <project path="vendor/gapps" name="vendor_gapps" remote="MindTheGapps" revision="vic" />
     
     <!-- moto-common main tree -->
