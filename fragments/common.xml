@@ -14,5 +14,5 @@
     <project path="hardware/motorola" name="android_hardware_motorola"
         remote="moto-common" revision="master" />
     <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME"
-        remote="aldair69" revision="15" />
+        remote="aldair69" revision="15.0" />
 </manifest>
