@@ -19,5 +19,6 @@
   <remove-project name="LineageOS/android_vendor_qcom_opensource_vibrator" />
   <remove-project name="LineageOS/android_device_qcom_sepolicy" />
   <remove-project name="LineageOS/android_device_qcom_sepolicy_vndr" />
-    <remove-project name="LineageOS/android_vendor_qcom_opensource_core-utils-vendor" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_core-utils-vendor" />
+  <remove-project name="crdroidandroid/android_packages_inputmethods_LatinIME" />
 </manifest>
