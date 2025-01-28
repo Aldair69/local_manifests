@@ -11,7 +11,7 @@
     <project path="device/motorola/amogus_doha" name="android_device_motorola_amogus_doha"
         remote="aldair69" revision="14" />
     <project path="vendor/motorola/amogus" name="android_vendor_motorola_amogus"
-        remote="aldair69" revision="15" />
+        remote="aldair69" revision="fpcfix" />
     <project path="vendor/motorola/amogus_doha" name="android_vendor_motorola_amogus_doha"
         remote="moto-common" revision="14" />
 </manifest>
