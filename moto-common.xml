@@ -15,6 +15,7 @@
             fetch="https://git.codelinaro.org/clo/la"
             sync-c="true"
             sync-tags="false" />
+    
 
     <!-- moto-common main tree -->
     <include name="local_manifests/fragments/common.xml"/>

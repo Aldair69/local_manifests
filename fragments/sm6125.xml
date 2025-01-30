@@ -5,13 +5,13 @@
     <project path="kernel/motorola/msm-4.14" name="android_kernel_motorola_msm-4.14"
         remote="aldair69" revision="15" />
     <project path="device/motorola/amogus-kernel" name="android_device_motorola_amogus-kernel"
-        remote="moto-common" revision="master" />
+        remote="moto-common" revision="13" />
     <project path="device/motorola/amogus" name="android_device_motorola_amogus"
         remote="moto-common" revision="14" />
     <project path="device/motorola/amogus_doha" name="android_device_motorola_amogus_doha"
-        remote="moto-common" revision="14" />
+        remote="aldair69" revision="14" />
     <project path="vendor/motorola/amogus" name="android_vendor_motorola_amogus"
-        remote="moto-common" revision="14" />
+        remote="aldair69" revision="15" />
     <project path="vendor/motorola/amogus_doha" name="android_vendor_motorola_amogus_doha"
         remote="moto-common" revision="14" />
 </manifest>
