@@ -13,5 +13,5 @@
     <project path="vendor/motorola/amogus" name="android_vendor_motorola_amogus"
         remote="aldair69" revision="15" />
     <project path="vendor/motorola/amogus_doha" name="android_vendor_motorola_amogus_doha"
-        remote="moto-common" revision="14" />
+        remote="aldair69" revision="14" />
 </manifest>
