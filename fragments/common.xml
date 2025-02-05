@@ -8,7 +8,7 @@
         <linkfile src="hardware/qcom/os_pickup_ext.mk" dest="vendor/qcom/opensource/Android.mk" />
     </project>
     <project path="device/motorola/targets" name="android_device_motorola_targets"
-        remote="aldair69" revision="master" />
+        remote="aldair69" revision="rising" />
     <project path="vendor/motorola/common" name="android_vendor_motorola_common"
         remote="moto-common" revision="14" />
     <project path="hardware/motorola" name="android_hardware_motorola"
