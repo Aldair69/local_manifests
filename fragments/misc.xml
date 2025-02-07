@@ -4,11 +4,6 @@
         fetch="https://github.com/Aldair69/" />
     <project path="hardware/samsung/nfc" name="platform_hardware_samsung_nfc"
         remote="moto-common" revision="master" />
-    <project path="build/soong" name="android_build_soong"
-        remote="aldair69" revision="patch-1" groups="pdk,tradefed" >
-           <linkfile src="root.bp" dest="Android.bp" />
-           <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
-    </project>
     <project path="device/sony/sepolicy" name="android_device_sony_sepolicy"
         remote="moto-common" revision="master" />
     <project path="vendor/goodix" name="platform_vendor_goodix"
