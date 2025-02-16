@@ -5,7 +5,7 @@
     <project path="device/motorola/sm4350-common-kernel" name="android_device_motorola_sm4350-common-kernel"
         remote="moto-common" revision="master" />
     <project path="device/motorola/sm4350-common" name="android_device_motorola_sm4350-common"
-        remote="moto-common" revision="14" />
+        remote="moto-common" revision="15" />
     <project path="device/motorola/osaka-kernel" name="android_device_motorola_osaka-kernel"
         remote="moto-common" revision="master" />
     <project path="device/motorola/osaka" name="android_device_motorola_osaka"
@@ -27,7 +27,7 @@
     <project path="device/motorola/bangkk" name="android_device_motorola_bangkk"
         remote="moto-common" revision="14" />
     <project path="vendor/motorola/sm4350-common" name="android_vendor_motorola_sm4350-common"
-        remote="moto-common" revision="14" />
+        remote="moto-common" revision="15" />
     <project path="vendor/motorola/osaka" name="android_vendor_motorola_osaka"
         remote="moto-common" revision="14" />
     <project path="vendor/motorola/milanf" name="android_vendor_motorola_milanf"
