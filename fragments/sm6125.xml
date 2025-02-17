@@ -2,10 +2,6 @@
 <manifest>
      <remote name="aldair69"
         fetch="https://github.com/Aldair69/" />
-    <project path="build/soong" name="Aldair69/android_build_soong" groups="pdk,tradefed" >
-      <linkfile src="root.bp" dest="Android.bp" />
-      <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
-    </project>
     <project path="kernel/motorola/msm-4.14" name="android_kernel_motorola_msm-4.14"
         remote="aldair69" revision="15" />
     <project path="device/motorola/amogus-kernel" name="android_device_motorola_amogus-kernel"
